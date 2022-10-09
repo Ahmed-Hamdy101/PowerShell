@@ -1,2 +1,2 @@
-![alt text](https://en.m.wikipedia.org/wiki/File:PowerShell_5.0_icon.png)
+![alt text](https://upload.wikimedia.org/wikipedia/commons/2/2f/PowerShell_5.0_icon.png)
 
